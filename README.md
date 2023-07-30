@@ -1,3 +1,5 @@
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*8jAT7ocXcZTw5TcyiUiNIA.jpeg" width="100%"><br>
+
 <h1 align="center">Hi 👋, I'm İlyürek</h1>
 <h3 align="center">Data Scientist & iOS Developer</h3>
 
