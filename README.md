@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İlyürek</h1>
-<h3 align="center">Data Scientist & iOS Developer ( Jr. to Sr. )</h3>
+<h3 align="center">Data Scientist & ML Engineer ( Jr. to Sr. )</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyurek&label=Profile%20views&color=0e75b6&style=flat" alt="ilyurek" /> </p>
 
