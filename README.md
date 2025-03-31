@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm İlyürek</h1>
-<h3 align="center">Data Scientist & ML Engineer ( Jr. to Sr. )</h3>
+<h3 align="center">Data Scientist & ML Engineer & AI Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyurek&label=Profile%20views&color=0e75b6&style=flat" alt="ilyurek" /> </p>
-
-- 🌱 I’m currently learning **Python, R, Swift**
-
-- 💬 Ask me about **Python & R**
-
-- 📫 How to reach me **ilyurek@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
